@@ -1,0 +1,11 @@
+{
+  "name": "pomelo-flashpolicyserver",
+  "version": "0.1.0",
+  "main": "./app",
+  "author": {
+    "name": "Eric Muyser",
+    "email": "eric@muyser.com"
+  },
+  "dependencies": {
+  }
+}
